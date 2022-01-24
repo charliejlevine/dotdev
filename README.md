@@ -1,6 +1,8 @@
-# charlie-levine-dot-dev
+# Charlie Levine
 
-## Build Setup
+## Personal Website
+
+### Build Setup
 
 ```bash
 # install dependencies

@@ -26,9 +26,9 @@
       </b-col>
       <b-col cols="12">
         <ImageLink
-          name="Lazy Texts"
-          href="https://lazytexts.com"
-          :img="require('~/assets/lazytexts.png')"
+          name="Textmate"
+          href="https://mytextmate.com"
+          :img="require('~/assets/textmate.png')"
         />
       </b-col>
     </b-row>
